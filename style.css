@@ -1,0 +1,30 @@
+body {
+    background: #7D84B2;
+    ;
+}
+
+h2 {
+    color: #F9F9ED;
+}
+
+article {
+    color: #F9F9ED;
+}
+
+a {
+    color: #F9F9ED;
+    font-size: large;
+}
+
+#bestGame {
+    font-family: fantasy;
+    font-size: x-large;
+    font-style: italic;
+}
+
+.thisIsWhereFeetGo {
+    font-size: 16px;
+    color: #DBF4A7;
+    margin-left: 10px;
+    margin-top: 10px;
+}

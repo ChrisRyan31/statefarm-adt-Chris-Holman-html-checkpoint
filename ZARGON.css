@@ -1,0 +1,14 @@
+.easterEgg {
+    color: #DBF4A7;
+    
+}
+
+.easterEgg:hover {
+    color: red;
+}
+
+a.navLinks {
+    display: inline-block;
+    color: black;
+    padding-right: 10px;
+}
