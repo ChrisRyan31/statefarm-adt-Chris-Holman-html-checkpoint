@@ -41,11 +41,15 @@ a {
 
 
 .thisIsWhereFeetGo {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     font-size: 16px;
     color: #DBF4A7;
-    margin-left: 10px;
-    margin-top: 10px;
+    background: #1b2836;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 nav {
@@ -65,8 +69,8 @@ nav a {
 
 .fa {
     padding: 20px;
-    font-size: 30px;
-    width: 30px;
+    font-size: 20px;
+    width: 20px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
