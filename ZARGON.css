@@ -9,6 +9,10 @@
 
 a.navLinks {
     display: inline-block;
-    color: black;
-    padding-right: 10px;
+    color: #F9F9ED;
+    padding-right: 20px;
+}
+
+a.navLinks:hover {
+    font-weight: bold;
 }

@@ -1,10 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background: #7D84B2;
-    ;
+    background: #243447;
 }
 
 h2 {
     color: #F9F9ED;
+    text-align: center;
 }
 
 article {
@@ -22,9 +27,62 @@ a {
     font-style: italic;
 }
 
+.gameList {
+    color: #F9F9ED;
+    border: 1px solid #F9F9ED;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-left: 28px;
+    width: 400pt;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 .thisIsWhereFeetGo {
     font-size: 16px;
     color: #DBF4A7;
     margin-left: 10px;
     margin-top: 10px;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    background: #1b2836;
+    padding: 10px;
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.socials {
+    text-align: center;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
 }
